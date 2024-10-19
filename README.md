@@ -1,2 +1,3 @@
 # first-repo-deemo
-this i my  first github repo ,nothing int ,it is just for learning
+This i my  first git repo ,nothing int ,it is just for learning
+Author-Rakshit
